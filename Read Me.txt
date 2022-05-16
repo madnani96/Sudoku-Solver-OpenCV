@@ -1,0 +1,18 @@
+
+
+
+Run the sudoku image processing file to check the output. 
+One can also use different sudoku problems to run the code. Just uncomment the path variable for whichever image you want to run.
+There are a total of 11 sudoku problems named 1,2,3 and so on in this folder.
+
+
+At every step we have added a print statement which can show different steps of our project.
+You can uncomment them accordingly.
+Note: If an image is displayed while running the code, one need to close the image window for the program to run further. 
+
+Digit Classification model is already trained for 20 epochs and saved in Myfirstmodel folder. One can train their own model by running that file.
+Data folder contain the dataset for digit classification.
+
+
+Sudoku Solver contains the backtracking approach to solve the sudoku puzzle.
+
